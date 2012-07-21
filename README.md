@@ -10,6 +10,7 @@ Installation
 This component makes use of the android support library v4. Specifically it uses these two classes:
 
 android.support.v4.view.PagerAdapter
+
 android.support.v4.view.ViewPager <-- You will use this with the LayoutPagerAdapter
 
 For more information on hoy to install it, check the official documentation:
