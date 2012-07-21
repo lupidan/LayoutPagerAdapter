@@ -67,3 +67,10 @@ You can implement OnViewLoadedListener to reuse layouts and configure them as yo
 		}
 		
 	}
+	
+	
+More stuff to do!
+====================
+Use this LayoutPagerAdapter and a ViewPager with Jake Wharton's View Pager Indicators to create quite good paged interfaces easily and fast!! :)
+
+https://github.com/JakeWharton/Android-ViewPagerIndicator/
